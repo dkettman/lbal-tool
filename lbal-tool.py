@@ -1,6 +1,5 @@
 import pprint
 import json
-from collections import ChainMap
 
 """
     Workflow thought process:
@@ -32,7 +31,7 @@ from collections import ChainMap
 """
 
 # Dict of Symbol objects we will use for lookups
-symbols = ChainMap()
+symbols = {}
 
 
 # CLASS DEFINITIONS
@@ -77,10 +76,10 @@ for file in json_files:
         #                                                         objs[obj]["value"],
         #                                                         objs[obj]["groups"],
         #                                                         objs[obj]["rarity"]))
-        print("Doing a thing with {}".format(obj))
-        dict_symbols.
-        dict_symbols[obj] = (Symbol(obj,
-                                  objs[obj]["value"],
-                                  objs[obj]["groups"],
-                                  objs[obj]["rarity"]))
-        print(dict_symbols[obj])
+        # print("Doing a thing with {}".format(obj))
+        # dict_symbols.
+        # dict_symbols[obj] = (Symbol(obj,
+        #                           objs[obj]["value"],
+        #                           objs[obj]["groups"],
+        #                           objs[obj]["rarity"]))
+        # print(dict_symbols[obj])
