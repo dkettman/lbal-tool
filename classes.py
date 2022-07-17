@@ -15,3 +15,4 @@ class Symbol:
         self.groups = groups
         self.rarity = rarity
 
+

@@ -28,6 +28,7 @@ from collections import ChainMap
       - select * from symbols where Groups contains "boobie"
       - select * from symbols where Id = "boobies"
       - Think keeping it all in Python would work better/give better learning opportunity.
+      
 """
 
 # Dict of Symbol objects we will use for lookups
