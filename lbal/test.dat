@@ -1,0 +1,30 @@
+Piñata	1	{{red|Adds}} {{IconL|Candy|count=7}} when {{sd|destroyed}}.	Uncommon	pinata	Demo	nil
+Peach	2	{{red|Adds}} {{IconL|Seed}} when {{sd|destroyed}}.	Uncommon	peach	{{version|0}}	nil
+Spades	1	Adjacent {{Group|Clubs|Spades|verbose=true|conj=and}} give {{Coins|1}} more. Gives {{Coins|1}} more if there are at least {{red|3}} {{Group|suit|verbose=true|conj=or}}.	Uncommon	spades	Demo	nil
+Bounty Hunter	1	{{sd|Destroys}} adjacent {{IconL|Thief}}. Gives {{Coins|20}} for each {{IconL|Thief}} {{sd|destroyed}}.	Common	bounty_hunter	Demo	nil
+Plum	2	nil	Uncommon	plum	{{version|0}}	{{version|10}}
+Banana	1	{{red|Adds}} {{IconL|Banana Peel}} when {{sd|destroyed}}.	Common	banana	{{version|0}}	nil
+Hex of Thievery	3	Has a {{%|30}} chance to take {{Coins|6}}.	Uncommon	hex_of_thievery	{{version|0}}	nil
+Strawberry	3	Gives {{coins|1}} more if there are at least {{iconL|Strawberry|count=2}}.	Rare	strawberry	Demo	nil
+Comedian	3	Adjacent {{Group|funny|verbose=true|conj=and}} give {{x|3}} more {{coins}}.	Rare	comedian	{{version|10}}	nil
+Treasure Chest	2	Gives {{coins|50}} when {{sd|destroyed}}.	Rare	treasure_chest	Demo	nil
+Witch	2	Adjacent {{Group|witchlikes|verbose=true|conj=and}} give {{x|2}} more {{Coins}}.	Rare	witch	{{version|0}}	nil
+Crab	1	Gives {{Coins|3}} more for {{red|each other}} {{IconL|Crab}} in the same row.	Common	crab	{{version|1}}	nil
+Geologist	2	{{sd|Destroys}} adjacent {{Group|archlikes|verbose=true|conj=and}}.  Permanently gives {{Coins|1}} for each symbol {{sd|destroyed}}.	Rare	archaeologist	Demo	nil
+Clubs	1	Adjacent {{Group|Clubs|Spades|verbose=true|conj=and}} give {{Coins|1}} more. Gives {{Coins|1}} more if there are at least {{red|3}} {{Group|suit|verbose=true|conj=or}}.	Uncommon	clubs	Demo	nil
+Honey	3	nil	Rare	honey	Demo	nil
+Wealthy Capsule	0	{{sd|Destroys}} itself. Gives {{Coins|10}} when {{sd|destroyed}}.	Uncommon	lucky_capsule	Demo	nil
+Highlander	6	There can be only {{IconL|Highlander|count=1}}.	Very Rare	highlander	Demo	nil
+Snail	0	Gives {{Coins|5}} every {{red|4}} spins.	Common	snail	{{version|0}}	nil
+Target	2	Gives {{coins|10}} when {{sd|destroyed}}.	Uncommon	target	{{version|5}}	nil
+Beehive	3	Has a {{%|10}} chance of {{red|adding}} {{IconL|Honey}}.	Rare	beehive	Demo	nil
+Golden Egg	4	nil	Rare	golden_egg	{{version|0}}	nil
+Item Capsule	0	{{sd|Destroys}} itself. {{red|Adds}} 1 {{Common}} item when {{sd|destroyed}}.	Uncommon	item_capsule	{{version|0}}	nil
+Safe	1	Gives {{coins|30}} when {{sd|destroyed}}.	Uncommon	safe	Demo	nil
+Light Bulb	1	Adjacent {{Group|gem|verbose=true|conj=and}} give {{x|2}} more {{Coins}}. {{sd|Destroys}} itself after making other symbols give additional {{coins}} {{red|5 times}}.	Common	light_bulb	{{version|10}}	nil
+Coal	0	{{st|Transforms}} into {{IconL|Diamond}} after {{red|20}} spins.	Common	coal	Demo	nil
+Hex of Draining	3	Has a {{%|30}} chance to make an adjacent symbol give {{Coins|0}}.	Uncommon	hex_of_draining	{{version|1}}	nil
+Bee	1	Adjacent {{Group|beelikes|verbose=true|conj=and}} give {{x|2}} more {{Coins}}. Gives {{coins|1}} more for each adjacent {{Group|beelikes|verbose=true|conj=or}}.	Common	bee	Demo	nil
+Void Stone	0	Adjacent {{IconL|Empty}} give {{Coins|1}} more. {{sd|Destroys}} itself if adjacent to {{IconL|Empty|count=0}}. Gives {{Coins|8}} when {{sd|destroyed}}.	Uncommon	void_stone	{{version|1}}	nil
+Cat	1	{{sd|Destroys}} adjacent {{IconL|Milk}}. Gives {{Coins|9}} for each {{IconL|Milk}} {{sd|destroyed}}.	Common	cat	Demo	nil
+Orange	2	nil	Uncommon	orange	Demo	nil

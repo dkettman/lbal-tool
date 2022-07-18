@@ -1,0 +1,159 @@
+Piñata	1	{{red|Adds}} {{IconL|Candy|count=7}} when {{sd|destroyed}}.	Uncommon	pinata	Demo	nil
+Peach	2	{{red|Adds}} {{IconL|Seed}} when {{sd|destroyed}}.	Uncommon	peach	{{version|0}}	nil
+Spades	1	Adjacent {{Group|Clubs|Spades|verbose=true|conj=and}} give {{Coins|1}} more. Gives {{Coins|1}} more if there are at least {{red|3}} {{Group|suit|verbose=true|conj=or}}.	Uncommon	spades	Demo	nil
+Bounty Hunter	1	{{sd|Destroys}} adjacent {{IconL|Thief}}. Gives {{Coins|20}} for each {{IconL|Thief}} {{sd|destroyed}}.	Common	bounty_hunter	Demo	nil
+Plum	2	nil	Uncommon	plum	{{version|0}}	{{version|10}}
+Banana	1	{{red|Adds}} {{IconL|Banana Peel}} when {{sd|destroyed}}.	Common	banana	{{version|0}}	nil
+Hex of Thievery	3	Has a {{%|30}} chance to take {{Coins|6}}.	Uncommon	hex_of_thievery	{{version|0}}	nil
+Strawberry	3	Gives {{coins|1}} more if there are at least {{iconL|Strawberry|count=2}}.	Rare	strawberry	Demo	nil
+Comedian	3	Adjacent {{Group|funny|verbose=true|conj=and}} give {{x|3}} more {{coins}}.	Rare	comedian	{{version|10}}	nil
+Treasure Chest	2	Gives {{coins|50}} when {{sd|destroyed}}.	Rare	treasure_chest	Demo	nil
+Witch	2	Adjacent {{Group|witchlikes|verbose=true|conj=and}} give {{x|2}} more {{Coins}}.	Rare	witch	{{version|0}}	nil
+Crab	1	Gives {{Coins|3}} more for {{red|each other}} {{IconL|Crab}} in the same row.	Common	crab	{{version|1}}	nil
+Geologist	2	{{sd|Destroys}} adjacent {{Group|archlikes|verbose=true|conj=and}}.  Permanently gives {{Coins|1}} for each symbol {{sd|destroyed}}.	Rare	archaeologist	Demo	nil
+Clubs	1	Adjacent {{Group|Clubs|Spades|verbose=true|conj=and}} give {{Coins|1}} more. Gives {{Coins|1}} more if there are at least {{red|3}} {{Group|suit|verbose=true|conj=or}}.	Uncommon	clubs	Demo	nil
+Honey	3	nil	Rare	honey	Demo	nil
+Wealthy Capsule	0	{{sd|Destroys}} itself. Gives {{Coins|10}} when {{sd|destroyed}}.	Uncommon	lucky_capsule	Demo	nil
+Highlander	6	There can be only {{IconL|Highlander|count=1}}.	Very Rare	highlander	Demo	nil
+Snail	0	Gives {{Coins|5}} every {{red|4}} spins.	Common	snail	{{version|0}}	nil
+Target	2	Gives {{coins|10}} when {{sd|destroyed}}.	Uncommon	target	{{version|5}}	nil
+Beehive	3	Has a {{%|10}} chance of {{red|adding}} {{IconL|Honey}}.	Rare	beehive	Demo	nil
+Golden Egg	4	nil	Rare	golden_egg	{{version|0}}	nil
+Item Capsule	0	{{sd|Destroys}} itself. {{red|Adds}} 1 {{Common}} item when {{sd|destroyed}}.	Uncommon	item_capsule	{{version|0}}	nil
+Safe	1	Gives {{coins|30}} when {{sd|destroyed}}.	Uncommon	safe	Demo	nil
+Light Bulb	1	Adjacent {{Group|gem|verbose=true|conj=and}} give {{x|2}} more {{Coins}}. {{sd|Destroys}} itself after making other symbols give additional {{coins}} {{red|5 times}}.	Common	light_bulb	{{version|10}}	nil
+Coal	0	{{st|Transforms}} into {{IconL|Diamond}} after {{red|20}} spins.	Common	coal	Demo	nil
+Hex of Draining	3	Has a {{%|30}} chance to make an adjacent symbol give {{Coins|0}}.	Uncommon	hex_of_draining	{{version|1}}	nil
+Bee	1	Adjacent {{Group|beelikes|verbose=true|conj=and}} give {{x|2}} more {{Coins}}. Gives {{coins|1}} more for each adjacent {{Group|beelikes|verbose=true|conj=or}}.	Common	bee	Demo	nil
+Void Stone	0	Adjacent {{IconL|Empty}} give {{Coins|1}} more. {{sd|Destroys}} itself if adjacent to {{IconL|Empty|count=0}}. Gives {{Coins|8}} when {{sd|destroyed}}.	Uncommon	void_stone	{{version|1}}	nil
+Cat	1	{{sd|Destroys}} adjacent {{IconL|Milk}}. Gives {{Coins|9}} for each {{IconL|Milk}} {{sd|destroyed}}.	Common	cat	Demo	nil
+Orange	2	nil	Uncommon	orange	Demo	nil
+Watermelon	4	Gives {{coins|1}} more for {{red|each other}} {{IconL|Watermelon}}.	Very Rare	watermelon	Demo	nil
+Gambler	1	Gives {{Coins|?}} when {{sd|destroyed}}. "{{Coins|?}}" increases by {{Coins|2}} each spin. {{sd|Destroys}} itself when {{IconL|Five-Sided Die}} or {{IconL|Three-Sided Die}} rolls {{Icon|Five-Sided Die 1|Five-Sided Die|alt=1}} or {{Icon|Three-Sided Die 1|Three-Sided Die|alt=1}}.	Common	gambler	{{version|12}}	nil
+Midas Bomb	0	{{sd|Destroys}} itself and all adjacent symbols. Symbols {{sd|destroyed}} this way give {{Coins}} equal to {{x|7}} their value.	Very Rare	midas_bomb	Demo	nil
+Jellyfish	2	Gives {{RemovalTokens|1}} when {{sr|removed}}.	Uncommon	jellyfish	{{version|12}}	nil
+Hustling Capsule	-7	{{sd|Destroys}} itself. {{red|Adds}} {{IconL|Pool Ball|count=1}} item when {{sd|destroyed}}.	Uncommon	hustler	{{version|0}}	nil
+Shiny Pebble	1	You are {{x|1.1}} more likely to find {{Uncommon}}, {{Rare}}, and {{VeryRare}} symbols.	Common	shiny_pebble	{{version|0}}	nil
+Chemical Seven	0	{{sd|Destroys}} itself. Gives {{Coins|7}} and {{red|adds}} {{IconL|Lucky Seven|count=1}} item when {{sd|destroyed}}.	Uncommon	chemical_seven	{{version|0}}	nil
+Amethyst	1	Whenever another symbol makes this symbol give additional {{coins}}, this symbol permanently gives {{coins|1}} more.	Rare	amethyst	{{version|7}}	nil
+Matryoshka Doll	0	{{sd|Destroys}} itself after {{red|3}} spins. {{red|Adds}} {{IconL|Matryoshka Doll 2|Matryoshka Doll}} when {{sd|destroyed}}.	Uncommon	matryoshka_doll_1	{{version|2}}	nil
+Copper	2	nil	Uncommon	copper	Demo	{{Version|3}}
+Ruby	3	Gives {{coins|1}} more if there are at least {{iconL|Ruby|count=2}}.	Rare	ruby	Demo	nil
+Coconut Half	2	nil	Uncommon	coconut_half	{{version|1}}	nil
+Milk	1	nil	Common	milk	{{version|6}}	nil
+Hex of Destruction	3	Has a {{%|30}} chance to {{sd|Destroy}} an adjacent symbol.	Uncommon	hex_of_destruction	{{version|0}}	nil
+Coin	1	nil	Common	coin	Demo	nil
+Cheese	1	nil	Common	cheese	Demo	nil
+Bubble	2	{{sd|Destroys}} itself after giving {{Coins}} {{red|3 times}}.	Common	bubble	{{version|5}}	nil
+Pirate	2	{{sd|Destroys}} adjacent {{Group|piratelikes|verbose=true|conj=and}}. Permanently gives {{Coins|1}} for each symbol {{sd|destroyed}}.	Very Rare	pirate	{{version|6}}	nil
+Removal Capsule	0	{{sd|Destroys}} itself. Gives {{RemovalTokens|1}} when {{sd|destroyed}}.	Uncommon	removal_capsule	{{version|3}}	nil
+Beer	1	nil	Common	beer	{{version|0}}	nil
+Magpie	-1	Gives {{Coins|9}} every {{red|4}} spins.	Common	magpie	{{version|0}}	nil
+Flower	1	nil	Common	flower	Demo	nil
+Bronze Arrow	0	Points a random direction. Symbols that are pointed to give {{x|2}} more {{Coins}}. {{sd|Destroys}} {{IconL|Target}} that are pointed to.	Uncommon	bronze_arrow	{{version|2}}	nil
+Spirit	6	{{sd|Destroys}} itself after giving {{Coins}} {{red|4 times}}.	Rare	spirit	Demo	nil
+Sand Dollar	2	Gives {{coins|10}} when {{sr|removed}}.	Uncommon	sand_dollar	{{version|12}}	nil
+Wolf	2	nil	Uncommon	wolf	Demo	nil
+Goldfish	1	{{sd|Destroys}} adjacent {{IconL|Bubble}}. Gives {{coins|15}} for each {{IconL|Bubble}} {{sd|destroyed}}.	Common	goldfish	{{version|0}}	nil
+Quartz	1	nil	Common	quartz	Demo	{{Version|2}}
+Tomb	3	Has a {{%|6}} chance of {{red|adding}} {{IconL|Spirit}}. {{red|Adds}} {{IconL|Spirit|count=4}} when {{sd|destroyed}}.	Rare	tomb	Demo	nil
+Cherry	1	nil	Common	cherry	Demo	nil
+Matryoshka Doll 5	4	nil	Special	matryoshka_doll_5	{{version|2}}	nil
+Anchor	1	Gives {{coins|4}} more when in a corner.	Common	anchor	{{version|6}}	nil
+Sun	3	Adjacent {{IconL|Flower}} give {{x|5}} more {{Coins}}. Adjacent {{IconL|Seed}} are {{%|50}} more likely to {{st|grow}}.	Rare	sun	Demo	nil
+Key	1	{{sd|Destroys}} adjacent {{Group|chest|verbose=true|conj=and}}. {{sd|Destroys}} itself afterwards.	Common	key	{{version|1}}	nil
+Topaz	2	nil	Uncommon	topaz	Demo	{{Version|3}}
+Diver	2	{{sr|Removes}} adjacent {{Group|poslikes|verbose=true|conj=and}}. Permanently gives {{Coins|1}} for each symbol {{sr|removed}}.	Rare	diver	{{version|2}}	nil
+Dog	1	Gives {{Coins|1}} more if adjacent to {{Group|doglikes|verbose=true|conj=or}}.	Common	dog	Demo	nil
+Owl	1	Gives {{Coins|1}} every {{red|3}} spins.	Common	owl	Demo	nil
+Diamonds	1	Adjacent {{Group|Diamonds|Hearts|verbose=true|conj=and}} give {{Coins|1}} more. Gives {{Coins|1}} more if there are at least {{red|3}} {{Group|suit|verbose=true|conj=or}}.	Uncommon	diamonds	Demo	nil
+Egg	1	Has a {{%|10}} chance to {{st|transform}} into {{IconL|Chick}}.	Common	egg	{{version|0}}	nil
+Matryoshka Doll 4	3	{{sd|Destroys}} itself after {{red|9}} spins. {{red|Adds}} {{IconL|Matryoshka Doll 5|Matryoshka Doll}} when {{sd|destroyed}}.	Special	matryoshka_doll_4	{{version|2}}	nil
+Sapphire	2	nil	Uncommon	sapphire	Demo	nil
+Oyster	1	Has a {{%|20}} chance of adding {{IconL|Pearl}}. {{red|Adds}} {{IconL|Pearl}} when {{sd|destroyed}}.	Common	oyster	{{version|2}}	nil
+Mrs. Fruit	2	{{sd|Destroys}} adjacent {{Group|fruitlikes|verbose=true|conj=and}}.  Permanently gives {{Coins|1}} for each symbol {{sd|destroyed}}.	Rare	mrs_fruit	{{version|1}}	nil
+Goose	1	Has a {{%|1}} chance of adding {{IconL|Golden Egg}}.	Common	goose	{{version|0}}	nil
+Card Shark	2	Adjacent {{Group|suit|verbose=true|conj=and}} are {{IconL|Wildcard}}.	Rare	card_shark	{{version|2}}	nil
+King Midas	1	{{red|Adds}} {{Coins}} each spin. Adjacent {{IconL|Coin}} give {{x|3}} more {{Coins}}.	Rare	king_midas	{{version|0}}	nil
+Time Capsule	0	{{sd|Destroys}} itself. {{red|Adds 1}} symbol that was {{sd|destroyed}} this game when {{sd|destroyed}}. Cannot add {{IconL|Time Capsule}}.	Uncommon	time_capsule	{{version|10}}	nil
+Pigeon	1	nil	Common	pigeon	Demo	{{Version|2}}
+Seed	1	Has a {{%|25}} chance to {{st|grow}} into {{Group|plant|verbose=true|conj=or}}.	Common	seed	Demo	nil
+Bluebird	2	nil	Uncommon	bluebird	Demo	{{Version|3}}
+Missing	0	nil	Special	missing	{{version|13}}	nil
+Matryoshka Doll 3	2	{{sd|Destroys}} itself after {{red|7}} spins. {{red|Adds}} {{IconL|Matryoshka Doll 4|Matryoshka Doll}} when {{sd|destroyed}}.	Special	matryoshka_doll_3	{{version|2}}	nil
+Matryoshka Doll 2	1	{{sd|Destroys}} itself after {{red|5}} spins. {{red|Adds}} {{IconL|Matryoshka Doll 3|Matryoshka Doll}} when {{sd|destroyed}}.	Special	matryoshka_doll_2	{{version|2}}	nil
+Empty	0	nil	Special	empty	Demo	nil
+Wine	2	Permanently gives {{coins|1}} more after giving {{coins}} 8 times.	Uncommon	wine	{{version|0}}	nil
+Hex of Tedium	3	You are {{x|1.2}} less likely to find {{Uncommon}}, {{Rare}}, and {{VeryRare}} symbols.	Uncommon	hex_of_tedium	{{version|0}}	nil
+Mine	4	{{red|Adds}} {{IconL|Ore}} each spin. {{sd|Destroys}} itself after giving {{Coins}} {{red|4 times}}. {{red|Adds}} {{IconL|Mining Pick|count=1}} item when {{sd|destroyed}}.	Rare	mine	{{version|1}}	nil
+Hex of Emptiness	3	Has a {{%|30}} chance of forcing you to skip the symbols you can add after a spin.	Uncommon	hex_of_emptiness	{{version|0}}	nil
+Eldritch Creature	4	{{sd|Destroys}} {{Group|fossillikes|verbose=true|conj=and}}. Gives {{Coins|1}} for each {{Group|fossillikes|verbose=true|conj=and}} {{sd|destroyed}} or {{sr|removed}} this game.	Very Rare	eldritch_beast	{{version|6}}	nil
+Hearts	1	Adjacent {{Group|Diamonds|Hearts|verbose=true|conj=and}} give {{Coins|1}} more. Gives {{Coins|1}} more if there are at least {{red|3}} {{Group|suit|verbose=true|conj=or}}.	Uncommon	hearts	Demo	nil
+Silver Arrow	0	Points a random direction. Symbols that are pointed to give {{x|3}} more {{Coins}}. {{sd|Destroys}} {{IconL|Target}} that are pointed to.	Rare	silver_arrow	{{version|2}}	nil
+Big Urn	2	Adds {{IconL|Spirit|count=2}} when {{sd|destroyed}}.	Uncommon	big_urn	Demo	nil
+Pufferfish	2	Gives {{RerollTokens|1}} when {{sr|removed}}.	Uncommon	pufferfish	{{version|12}}	nil
+Wildcard	?	Gives {{Coins}} equal to the highest value among adjacent symbols.	Very Rare	wildcard	Demo	nil
+Bartender	3	Has a {{%|10}} chance of {{red|adding}} {{Group|booze|verbose=true|conj=or}}.	Rare	bartender	{{version|0}}	nil
+Chick	1	Has a {{%|10}} chance to {{st|grow}} into {{IconL|Chicken}}.	Uncommon	chick	{{version|0}}	nil
+Golden Arrow	0	Points a random direction. Symbols that are pointed to give {{x|4}} more {{Coins}}. {{sd|Destroys}} {{IconL|Target}} that are pointed to.	Very Rare	golden_arrow	{{version|2}}	nil
+Cultist	0	Gives {{Coins|1}} more for {{red|each other}} {{IconL|Cultist}}. Gives {{Coins|1}} more if there are at least {{IconL|Cultist|count=3}}.	Common	cultist	Demo	nil
+Frozen Fossil	0	{{sd|Destroys}} itself after {{red|20}} spins. The amount of spins needed is reduced by {{red|5}} for each {{Group|fossillikes|verbose=true|conj=and}} {{sd|destroyed}} or {{sr|removed}} this game. {{red|Adds}} {{IconL|Eldritch Creature}} when {{sd|destroyed}}.	Rare	frozen_fossil	{{version|6}}	nil
+Diamond	5	Gives {{coins|1}} more for {{red|each other}} {{IconL|Diamond}}.	Very Rare	diamond	Demo	nil
+Bear	2	{{sd|Destroys}} adjacent {{IconL|Honey}}. Gives {{Coins|40}} for each {{IconL|Honey}} {{sd|destroyed}}.	Uncommon	bear	Demo	nil
+Dud	0	{{sd|Destroys}} itself after {{red|33}} spins. Cannot be {{sr|removed}}.	Special	dud	{{version|5}}	nil
+Robin Hood	-4	Gives {{Coins|25}} every {{red|4}} spins. Adjacent {{Group|robinlikes|verbose=true|conj=and}} give {{Coins|3}} more. {{sd|Destroys}} adjacent {{Group|robinhates|verbose=true|conj=and}}. Gives {{Coins|15}} for each {{Group|robinhates|verbose=true|conj=and}} {{sd|destroyed}}.	Rare	robin_hood	{{version|0}}	nil
+Golem	0	{{sd|Destroys}} itself after {{red|5}} spins. {{red|Adds}} {{IconL|Ore|count=5}} when {{sd|destroyed}}.	Uncommon	golem	{{version|1}}	nil
+Pearl	1	nil	Common	pearl	Demo	nil
+General Zaroff	1	{{sd|Destroys}} adjacent {{Group|human|verbose=true|conj=and}}. Gives {{Coins|20}} for each symbol {{sd|destroyed}}.	Rare	general_zaroff	{{version|0}}	nil
+Chef	2	Adjacent {{Group|food|verbose=true|conj=and}} give {{x|2}} more {{Coins}}.	Rare	chef	Demo	nil
+Emerald	3	Gives {{coins|1}} more if there are at least {{iconL|Emerald|count=2}}.	Rare	emerald	Demo	nil
+Penguin	1	nil	Common	penguin	Demo	{{Version|2}}
+Cow	3	Has a {{%|15}} chance of {{red|adding}} {{IconL|Milk}}.	Rare	cow	{{version|6}}	nil
+Present	0	{{sd|Destroys}} itself after {{red|12}} spins. Gives {{coins|10}} when {{sd|destroyed}}.	Common	present	{{version|7}}	nil
+Essence Capsule	-12	{{sd|Destroys}} itself. Gives {{EssenceTokens|1}} when {{sd|destroyed}}	Uncommon	essense_capsule	{{Version|9}}	nil
+Monkey	1	{{sd|Destroys}} adjacent {{Group|monkeylikes|verbose=true|conj=and}}. Gives {{Coins}} equal to {{x|6}} the value of symbols {{sd|destroyed}} this way.	Common	monkey	{{version|0}}	nil
+Hex of Hoarding	3	Has a {{%|30}} chance of forcing you to {{red|add}} a symbol after this spin.	Uncommon	hex_of_hoarding	{{version|6}}	nil
+Thief	-1	Gives {{Coins|?}} when {{sd|destroyed}}. "{{Coins|?}}" increases by {{Coins|4}} each spin.	Uncommon	thief	Demo	nil
+Martini	3	nil	Rare	martini	{{version|0}}	nil
+Mega Chest	3	Gives {{coins|100}} when {{sd|destroyed}}.	Very Rare	mega_chest	Demo	nil
+Magic Key	2	{{sd|Destroys}} adjacent {{Group|chest|verbose=true|conj=and}}. Symbols {{sd|destroyed}} this way give {{x|3}} more {{Coins}}. {{sd|Destroys}} itself afterward.	Rare	magic_key	{{version|6}}	nil
+Joker	3	Adjacent {{Group|suit|verbose=true|conj=and}} give {{x|2}} more {{Coins}}.	Rare	joker	Demo	nil
+Omelette	3	Gives {{coins|2}} more if adjacent to {{group|omelettestuff|verbose=true|conj=or}}. This effect only applies once per spin.	Rare	omelette	{{version|0}}	nil
+Dwarf	1	Destroys adjacent {{Group|dwarflikes|verbose=true|conj=and}}. Gives {{Coins}} equal to {{x|10}} the value of symbols {{sd|destroyed}} this way.	Common	dwarf	{{version|0}}	nil
+Banana Peel	1	{{sd|Destroys}} adjacent {{IconL|Thief}}. {{sd|Destroys}} itself afterwards.	Common	banana_peel	{{version|0}}	nil
+Crow	2	Gives {{Coins|-3}} every {{red|4}} spins.	Common	crow	{{version|1}}	nil
+Mouse	1	{{sd|Destroys}} adjacent {{IconL|Cheese}}. Gives {{Coins|15}} for each {{IconL|Cheese}} {{sd|destroyed}}.	Common	mouse	Demo	nil
+Farmer	2	Adjacent {{Group|farmerlikes|verbose=true|conj=and}} give {{x|2}} more {{Coins}}. Adjacent {{IconL|Seed}} are {{%|50}} more likely to {{st|grow}}.	Rare	farmer	{{version|0}}	nil
+Ore	1	Adds {{Group|gem|verbose=true|conj=or}} when {{sd|destroyed}}.	Common	ore	Demo	nil
+Five-Sided Die	?	Gives between {{Coins|1}} and {{Coins|5}} randomly.	Uncommon	d5	Demo	nil
+Dove	2	If an adjacent symbol would be {{sd|destroyed}}, instead it isn't, and this symbol permanently gives {{coins|1}} more.	Rare	dove	{{version|12}}	nil
+Dame	2	Adjacent {{Group|gem|verbose=true|conj=and}} give {{x|2}} more {{Coins}}. {{sd|Destroys}} adjacent {{IconL|Martini}}. Gives {{Coins|40}} for each {{IconL|Martini}} {{sd|destroyed}}.	Rare	dame	{{version|1}}	nil
+Bar of Soap	1	{{red|Adds}} {{IconL|Bubble}} each spin. {{sd|Destroys}} itself after giving {{Coins}} {{red|3 times}}.	Uncommon	bar_of_soap	{{version|6}}	nil
+Miner	1	{{sd|Destroys}} adjacent {{Group|minerlikes|verbose=true|conj=and}}. Gives {{Coins|15}} for each {{Group|minerlikes|verbose=true|conj=and}} {{sd|destroyed}}.	Common	miner	{{version|0}}	nil
+Rain	2	Adjacent {{IconL|Flower}} give {{x|2}} more {{Coins}}. Adjacent {{IconL|Seed}} are {{%|50}} more likely to {{st|grow}}.	Uncommon	rain	Demo	nil
+Buffing Capsule	0	{{sd|Destroys}} itself. Adjacent symbols give {{x|2}} more {{Coins}}.	Uncommon	buffing_powder	{{version|0}}	nil
+Apple	3	nil	Rare	apple	Demo	nil
+Big Ore	2	Adds {{red|2}} {{Group|gem|verbose=true|conj=or}} when {{sd|destroyed}}.	Uncommon	big_ore	{{version|1}}	nil
+Void Creature	0	Adjacent {{IconL|Empty}} give {{Coins|1}} more. {{sd|Destroys}} itself if adjacent to {{IconL|Empty|count=0}}. Gives {{Coins|8}} when {{sd|destroyed}}.	Uncommon	void_creature	{{version|1}}	nil
+Urn	1	Adds {{IconL|Spirit}} when {{sd|destroyed}}.	Common	urn	Demo	nil
+Void Fruit	0	Adjacent {{IconL|Empty}} give {{Coins|1}} more. {{sd|Destroys}} itself if adjacent to {{IconL|Empty|count=0}}. Gives {{Coins|8}} when {{sd|destroyed}}.	Uncommon	void_fruit	{{version|7}}	nil
+Hooligan	2	{{sd|Destroys}} adjacent {{Group|spiritbox|verbose=true|conj=and}}. Gives {{Coins|6}} for each {{Group|spiritbox|verbose=true|conj=and}} {{sd|destroyed}}.	Uncommon	hooligan	{{version|3}}	nil
+Hex of Midas	3	Has a {{%|30}} chance of {{red|adding}} {{IconL|Coin}}.	Uncommon	hex_of_midas	{{version|6}}	nil
+Tedium Capsule	0	{{sd|Destroys}} itself. Gives {{Coins|5}} when {{sd|destroyed}}. At least {{red|1}} of the symbols to {{red|add}} after this spin will be {{Common}}.	Uncommon	tedium_capsule	{{version|5}}	nil
+Sloth	0	Gives {{Coins|4}} every {{red|2}} spins.	Uncommon	sloth	{{version|0}}	nil
+Billionaire	0	Adjacent {{Group|richlikes|verbose=true|conj=and}} give {{x|2}} more {{Coins}}. Gives {{Coins|39}} when {{sd|destroyed}}.	Uncommon	billionaire	{{version|6}}	nil
+Chicken	2	Has a {{%|5}} chance of {{red|adding}} {{IconL|Egg}}. Has a {{%|1}} chance of {{red|adding}} {{IconL|Golden Egg}}.	Rare	chicken	{{version|0}}	nil
+Reroll Capsule	0	{{sd|Destroys}} itself. Gives {{RerollTokens|1}} when {{sd|destroyed}}.	Uncommon	reroll_capsule	{{version|3}}	nil
+Moon	3	Adjacent {{Group|night|verbose=true|conj=and}} give {{x|3}} more {{Coins}}. {{red|Adds}} {{IconL|Cheese|count=3}} when {{sd|destroyed}}.	Rare	moon	Demo	nil
+Lockbox	1	Gives {{Coins|15}} when {{sd|destroyed}}.	Common	lockbox	Demo	nil
+Turtle	0	Gives {{Coins|4}} every {{red|3}} spins.	Common	turtle	{{version|0}}	nil
+Lucky Capsule	0	{{sd|Destroys}} itself. At least {{red|1}} of the symbols to {{red|add}} after this spin will be {{Rare}} or better.	Uncommon	rarity_capsule	{{version|0}}	nil
+Three-Sided Die	?	Gives between {{Coins|1}} and {{Coins|3}} randomly.	Common	d3	Demo	nil
+Pear	1	Whenever another symbol makes this symbol give additional {{coins}}, this symbol permanently gives {{coins|1}} more.	Rare	pear	{{version|7}}	nil
+Beastmaster	2	Adjacent {{Group|animal|verbose=true|conj=and}} give {{x|2}} more {{Coins}}.	Rare	beastmaster	Demo	nil
+Rabbit	1	Permanently gives {{coins|2}} more after giving {{coins}} {{red|10 times}}.	Uncommon	rabbit	Demo	nil
+Coconut	1	{{red|Adds}} {{IconL|Coconut Half|count=2}} when {{sd|destroyed}}.	Uncommon	coconut	{{version|1}}	nil
+Ninja	2	Gives {{Coins|1}} less for each other {{IconL|Ninja}}.	Uncommon	ninja	Demo	nil
+Candy	1	nil	Common	candy	Demo	nil
+Rabbit Fluff	2	You are {{x|1.2}} more likely to find {{Uncommon}}, {{Rare}}, and {{VeryRare}} symbols.	Uncommon	rabbit_fluff	{{version|0}}	nil
+Toddler	1	{{sd|Destroys}} adjacent {{Group|toddlerlikes|verbose=true|conj=and}}. Gives {{Coins|6}} for each {{Group|toddlerlikes|verbose=true|conj=and}} {{sd|destroyed}}.	Common	toddler	{{version|0}}	nil

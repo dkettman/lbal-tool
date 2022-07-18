@@ -1,0 +1,112 @@
+Telescope	Very Rare	Every {{red|3}} spins, all symbols are considered adjacent.	telescope	{{version|0}}	nil
+Happy Hour	Common	{{Group|booze|verbose=true|conj=and}} give {{Coins|1}} more.	happy_hour	{{version|0}}	nil
+Jack-o'-lantern	Common	{{Group|halloween|verbose=true|conj=and}} give {{x|2}} more {{Coins}}.	jackolantern	{{version|0}}	nil
+Horseshoe	Uncommon	Gives {{Coins|2}}.	horseshoe	{{version|0}}	nil
+Undertaker	Rare	{{IconL|Spirit}} cannot be {{sd|destroyed}}.	undertaker	Demo	nil
+Bowling Ball	Rare	Gives {{Coins|3}}.	bowling_ball	{{version|0}}	nil
+Coffee	Rare	If you can't afford your rent, you may {{red|destroy}} this item and spin an additional time.	coffee	{{version|0}}	nil
+Holy Water	Rare	{{Group|hex|verbose=true|conj=and}} have no effect and give {{Coins|1}} more.	holy_water	{{version|0}}	nil
+Dishwasher	Rare	Gives {{EssenceTokens|1}} every {{red|12}} spins.	dishwasher	{{version|9}}	nil
+Lucky Cat	Common	You are {{x|1.3}} more likely to find {{Uncommon}}, {{Rare}}, and {{VeryRare}} symbols for each {{IconL|Cat}}.	lucky_cat	{{version|0}}	nil
+Popsicle	Very Rare	The conditional effects of {{carmine|essences}} must happen {{red|2}} times for them to be {{red|destroyed}}.	popsicle	{{version|9}}	nil
+Small Symbol Bomb	Common	You may {{red|destroy}} this item and choose {{red|2}} symbols to {{red|add}}.	symbol_bomb_small	Demo	nil
+Green Pepper	Common	Gives {{Coins|3}} if at least {{red|3}} symbols are the same and not {{IconL|Empty}}.	green_pepper	Demo	nil
+Rusty Gear	Uncommon	If {{red|3}} or more of the same symbol are adjacent and not {{IconL|Empty}}, they give {{x|2}} more {{Coins}}.	rusty_gear	{{version|0}}	nil
+Purple Pepper	Common	Gives {{Coins|5}} if {{red|3}} or more of the same symbol are adjacent and not {{IconL|Empty}}.	purple_pepper	{{version|0}}	nil
+Time Machine	Uncommon	{{IconL|Coal}} take {{red|5 less}} spins to {{st|transform}}. {{Group|destroyable_matryoshka|verbose=true|conj=and}} take {{red|2 less}} spins to be {{sd|destroyed}}. {{Group|Frozen Fossil|Present|verbose=true|conj=and}} take {{red|5 less}} spins to be {{sd|destroyed}}.	time_machine	Demo	nil
+Devil's Deal	Rare	You may {{red|destroy}} this item and {{red|add}} {{IconL|Empty|count=66}} instead of paying rent.	devils_deal	Demo	nil
+Pink Pepper	Common	Gives {{Coins|2}} whenever you {{red|skip}}.	pink_pepper	{{version|3}}	nil
+Lefty the Rabbit	Uncommon	{{red|Adds}} {{IconL|Rabbit Fluff}} every {{red|10}} spins. {{Group|Rabbit|Rabbit Fluff|verbose=true|conj=and}} in the leftmost column give {{x|2}} more {{Coins}}.	lefty_the_rabbit	{{version|3}}	nil
+Blue Pepper	Common	Gives {{Coins|3}} if there are at least {{IconL|Empty|count=3}}.	blue_pepper	Demo	nil
+Proliferation	Common	{{IconL|Seed}} {{st|grow}} when adjacent to {{IconL|Seed}}.	proliferation	Demo	{{version|2}}
+Brown Pepper	Common	Gives {{Coins|1}} whenever a symbol is {{red|added}}.	brown_pepper	{{version|9}}	nil
+Recycling	Very Rare	Gives {{RerollTokens}} each spin.	recycling	{{version|0}}	nil
+Gray Pepper	Common	Gives {{Coins|6}} whenever you spend {{RemovalTokens}}.	gray_pepper	{{version|5}}	nil
+Kyle the Kernite	Common	{{Group|Shiny Pebble|Ore|verbose=true|conj=and}} give {{Coins|1}} more.	kyle_the_kernite	{{version|6}}	nil
+Pitchfork	Common	{{IconL|Seed}} are {{%|30}} more likely to {{st|grow}} for each adjacent {{Group|V0.0.0_plant|verbose=true|conj=and}}	pitchfork	Demo	{{version|2}}
+Item Missing	Special	nil	item_missing	{{version|13}}	nil
+Reroll	Common	{{IconL|Three-Sided Die}} that roll less than {{Icon|Three-Sided Die 2|Three-Sided Die|alt=2}} and {{IconL|Five-Sided Die}} that roll less than {{Icon|Five-Sided Die 3|Five-Sided Die|alt=3}} will reroll once.	reroll	Demo	nil
+Shattered Mirror	Uncommon	Gives {{Coins|24}} every {{red|7}} spins. You have {{red|1}} less symbol to choose from after a spin.	shattered_mirror	{{version|1}}	nil
+Coin on a String	Uncommon	Gives {{Coins|1}}. {{sr|Removes}} all {{IconL|Coin}} before each spin. Gives {{Coins|3}} whenever {{iconL|Coin}} are {{sr|removed}}.	coin_on_a_string	Demo	nil
+Frozen Pizza	Very Rare	You {{red|add}} an extra symbol after every {{red|2}} spins.	frozen_pizza	{{version|0}}	nil
+Four-leaf clover	Very Rare	Gives {{Coins|4}}.	four_leaf_clover	{{version|0}}	nil
+Pool Ball	Common	Gives {{Coins|1}}.	pool_ball	{{version|0}}	nil
+Chicken Coop	Rare	{{Group|chickenstuff|verbose=true|conj=and}} give {{Coins|2}} more. {{IconL|Chicken}} are {{x|3}} more likely to {{red|add}} symbols. {{IconL|Egg}} are {{x|3}} more likely to {{st|transform}}.	chicken_coop	{{version|0}}	nil
+Guillotine	Common	{{IconL|Billionaire}} are {{sd|destroyed}}.	guillotine	{{version|6}}	nil
+Lime Pepper	Common	Gives {{coins|6}} whenever you spend {{RerollTokens}}.	lime_pepper	{{version|7}}	nil
+Lockpick	Common	{{Group|chest|verbose=true|conj=and}} have a {{%|35}} chance of being {{sd|destroyed}}.	lockpick	Demo	nil
+Chili Powder	Rare	Gives {{Coins|1}} for each {{Group|pepper|verbose=true|conj=and}}.	chili_powder	{{version|5}}	nil
+Copycat	Very Rare	{{IconL|Cat}} are {{IconL|Wildcard}}.	copycat	Demo	nil
+Ancient Lizard Blade	Very Rare	Gives {{Coins|8}} each spin. Gives {{Coins|1}} less for each symbol in your inventory with a quantity of {{red|2}} or more. Cannot give less than {{Coins|0}}.	ancient_lizard_blade	{{version|1}}	nil
+Void Portal	Rare	Gives {{Coins|1}} for every {{red|8}} symbols {{sd|destroyed}} this game.	void_portal	{{version|1}}	nil
+Lunchbox	Common	You may {{red|destroy}} this item and choose {{red|3}} symbols to {{red|add}}. The possible symbols are {{Group|food|verbose=true|conj=and}}.	lunchbox	Demo	nil
+Swapping Device	Rare	You may {{red|swap}} the positions of {{red|2}} symbols once per spin.	swapping_device	{{version|0}}	nil
+Sunglasses	Rare	Gives {{RemovalTokens|1}} each spin if you have {{RemovalTokens|4}} or more.	sunglasses	{{version|6}}	nil
+Anthropology Degree	Rare	{{Group|human|verbose=true|conj=and}} give {{Coins|1}} more.	anthropology_degree	{{version|1}}	nil
+Tax Evasion	Common	If a symbol would take {{Coins}}, it takes {{Coins|1}} less.	tax_evasion	{{version|1}}	nil
+Black Suits	Uncommon	{{Group|Clubs|Spades|verbose=true|conj=and}} give {{x|2}} more {{Coins}}.	blue_suits	{{version|0}}	nil
+Protractor	Rare	Every {{red|3}} spins, symbols in a corner are considered adjacent to all symbols.	protractor	{{version|2}}	nil
+Dwarven Anvil	Uncommon	{{IconL|Dwarf}} give {{x|2}} more {{Coins}} and {{sd|destroy}} adjacent {{Group|minerlikes|verbose=true|conj=and}}.	dwarven_anvil	{{version|0}}	nil
+Oil Can	Rare	You may {{red|re-spin}} a column of symbols once per spin.	oil_can	{{version|2}}	nil
+Lucky Dice	Rare	{{IconL|Three-Sided Die}} will always roll {{Icon|Three-Sided Die|alt=3}}. {{IconL|Five-Sided Die}} will always roll {{Icon|Five-Sided Die|alt=5}}.	lucky_dice	Demo	nil
+Piggy Bank	Uncommon	You put {{Coins|2}} in this item each spin. You may {{red|destroy}} this item and gain {{x|2.5}} the {{Coins}} inside it.	piggy_bank	Demo	nil
+Comfy Pillow	Uncommon	If you have {{red|1}} spin left before your rent is due, you may skip your next spin. If you do, at least {{red|1}} of the items to {{red|add}} after paying rent will be {{Rare}} or better.	comfy_pillow	{{version|2}}	nil
+Lucky Carrot	Rare	You are {{x|3}} more likely to find {{Uncommon}}, {{Rare}}, and {{VeryRare}} symbols. {{IconL|Rabbit}} give {{x|3}} more {{Coins}}.	lucky_carrot	Demo	nil
+Quiver	Rare	{{Group|arrow|verbose=true|conj=and}} point {{red|2}} directions.	quiver	{{version|2}}	nil
+Grave Robber	Common	{{Group|spiritbox|verbose=true|conj=and}} have a {{%|66}} chance of being {{sd|destroyed}}.	grave_robber	Demo	nil
+Triple Coins	Uncommon	{{IconL|Coin}} give {{x|3}} more {{Coins}}.	triple_coins	{{version|0}}	nil
+Capsule Machine	Rare	The effects of {{Group|capsule|verbose=true|conj=and}} happen {{red|2 times}}.	capsule_machine	{{version|0}}	nil
+Shedding Season	Common	{{IconL|Rabbit}} have a {{%|10}} chance of {{red|adding}} {{IconL|Rabbit Fluff}}.	shedding_season	{{version|0}}	nil
+Adoption Papers	Common	You may {{red|destroy}} this item and choose {{red|3}} symbols to {{red|add}}. The possible symbols are {{group|animal|verbose=true|conj=and}}	adoption_papers	{{version|7}}	nil
+Fruit Basket	Uncommon	{{Group|fruit|verbose=true|conj=and}} give {{Coins|1}} more.	fruit_basket	Demo	nil
+Black Cat	Uncommon	Gives {{Coins|6}} whenever you gain a multiple of {{Coins|13}} after a spin. {{IconL|Cat}} give {{x|2}} more {{Coins}}.	black_cat	{{version|0}}	nil
+Booster Pack	Rare	You may {{red|destroy}} this item and choose {{red|4}} {{Common}} symbols, {{red|3}} {{Uncommon}} symbols, and {{red|1}} {{Rare}} symbol to {{red|add}}.	booster_pack	Demo	nil
+Dark Humor	Uncommon	{{Group|darkhumor|verbose=true|conj=and}} give {{x|3}} more {{coins}} when adjacent to {{IconL|Comedian}}. {{IconL|Comedian}} are {{uncommon}} instead of {{rare}}.	dark_humor	{{version|10}}	nil
+Instant Ramen	Rare	You {{red|add}} an additional item after each rent payment.	bag_of_holding	{{version|0}}	nil
+Nori the Rabbit	Common	{{Group|Rabbit|Rabbit Fluff|verbose=true|conj=and}} give {{Coins|1}} more.	nori_the_rabbit	{{version|0}}	nil
+Rain Cloud	Common	{{IconL|Rain}} give {{Coins|1}} more and are {{Common}} instead of {{Uncommon}}.	rain_cloud	Demo	nil
+Treasure Map	Common	You may {{red|destroy}} this item after {{red|20}} spins. {{red|Adds}} {{Group|Key|Treasure Chest|verbose=true|conj=and}} when {{red|destroyed}}.	treasure_map	{{version|6}}	nil
+X-ray Machine	Uncommon	{{Group|minerlikes|verbose=true|conj=and}} will only {{red|add}} {{Rare}} or better symbols.	x_ray_machine	{{version|1}}	nil
+Shrine	Uncommon	{{Group|organism|verbose=true|conj=and}} {{red|add}} {{iconL|Spirit}} when {{sd|destroyed}}.	shrine	Demo	nil
+Ritual Candle	Uncommon	{{Group|hex|verbose=true|conj=and}} give {{Coins|1}} more.	ritual_candle	{{version|0}}	nil
+Barrel of Dwarves	Uncommon	You may {{red|destroy}} this item and {{red|add}} {{IconL|Dwarf|count=7}}.	barrel_o_dwarves	{{version|0}}	nil
+Red Suits	Uncommon	{{Group|Diamonds|Hearts|verbose=true|conj=and}} give {{x|2}} more {{Coins}}.	red_suits	{{version|0}}	nil
+Looting Glove	Uncommon	{{Group|box|verbose=true|conj=and}} give {{x|1.5}} more {{Coins}} when {{sd|destroyed}}.	looting_glove	Demo	nil
+Conveyor Belt	Uncommon	{{group|spawner0|verbose=true|conj=and}} are {{x|2}} more likely to {{red|add}} symbols.	conveyor_belt	Demo	nil
+Egg Carton	Common	Puts all {{IconL|Egg}} in this item before each spin. Gives {{Coins|1}} for each {{IconL|Egg}} in this item, up to a maximum of {{Coins|6}} each spin.	egg_carton	{{version|0}}	nil
+Pizza the Cat	Common	{{IconL|Cat}} give {{Coins|1}} more.	pizza_the_cat	{{version|2}}	nil
+Lint Roller	Uncommon	{{sr|Removes}} all {{IconL|Rabbit Fluff}} before each spin. Gives {{Coins|10}} whenever {{IconL|Rabbit Fluff}} are {{sr|removed}}.	lint_roller	{{version|5}}	nil
+Lemon	Uncommon	{{IconL|Empty}} give {{Coins|1}}.	lemon	Demo	nil
+Mining Pick	Common	Gives {{Coins|5}} whenever {{Group|minerlikes|verbose=true|conj=or}} are {{sd|destroyed}}.	mining_pick	Demo	nil
+Frying Pan	Common	{{IconL|Egg}} are {{sd|destroyed}} when adjacent to {{Group|omelettestuff|verbose=true|conj=and}}. {{red|Adds}} {{IconL|Omelette}} whenever {{IconL|Egg}} are {{sd|destroyed}}.	frying_pan	{{version|0}}	nil
+Watering Can	Common	{{IconL|Seed}} are {{%|100}} more likely to {{st|grow}}. {{IconL|Seed}} give {{Coins|5}} more.	watering_can	Demo	nil
+Credit Card	Very Rare	Every {{red|7}} spins, you have {{red|17}} more symbols to choose from after a spin.	credit_card	{{version|12}}	nil
+Cursed Katana	Uncommon	{{IconL|Ninja}} give {{Coins|2}} more for {{red|each other}} {{IconL|Ninja}}.	cursed_katana	{{version|2}}	nil
+Ninja and Mouse	Common	{{Group|Ninja|Mouse|verbose=true|conj=and}} give {{x|5}} more {{Coins}} when adjacent to each other. This effect only applies once per spin.	ninja_and_mouse	Demo	nil
+Flush	Uncommon	Gives {{Coins|77}} and is {{red|destroyed}} if there are at least {{IconL|Clubs|count=3}}. The same applies to {{Group|Diamonds|Hearts|Spades|verbose=true|conj=and}}.	flush	Demo	nil
+Fertilizer	Uncommon	{{IconL|Seed}} will only {{st|grow}} into {{Rare}} or better symbols. {{IconL|Seed}} are {{%|25}} more likely to {{st|grow}}.	fertilizer	{{version|1}}	nil
+Goldilocks	Uncommon	You may {{red|destroy}} this item and add {{IconL|Bear|count=3}}.	goldilocks	Demo	nil
+Quigley the Wolf	Common	{{IconL|Wolf}} give {{Coins|1}} more. {{IconL|Dog}} {{st|transform}} into {{IconL|Wolf}}.	quigley_the_wolf	{{version|2}}	nil
+Compost Heap	Uncommon	{{IconL|Seed}} is {{red|added}} whenever {{red|3}} symbols are {{sd|destroyed}}. {{IconL|Seed}} will only {{st|grow}} into {{Uncommon}} or better symbols.	compost_heap	Demo	nil
+Maxwell the Bear	Common	{{IconL|Bear}} give {{x|1.5}} more {{Coins}}.	maxwell_the_bear	Demo	nil
+Swear Jar	Common	You put {{Coins|1}} in this item each time you spin and gain {{Coins|35}} or less. You may {{red|destroy}} this item and gain {{x|3}} the {{Coins}} inside it.	swear_jar	Demo	nil
+Big Symbol Bomb	Uncommon	You may {{red|destroy}} this item and choose {{red|4}} symbols to {{red|add}}.	symbol_bomb_big	Demo	nil
+Cyan Pepper	Common	Gives {{Coins|2}} unless {{red|3}} or more symbols are the same. This effect ignores {{IconL|Empty}}.	cyan_pepper	{{version|6}}	nil
+Golden Carrot	Very Rare	You are {{x|5}} more likely to find {{Uncommon}}, {{Rare}}, and {{VeryRare}} symbols. {{IconL|Rabbit}} give {{x|5}} more {{Coins}}.	golden_carrot	Demo	nil
+Black Pepper	Common	Gives {{Coins|1}} whenever a symbol is {{sd|destroyed}}.	black_pepper	{{version|1}}	nil
+Checkered Flag	Common	{{Group|slow|verbose=true|conj=and}} take {{red|1 less}} spin to give {{Coins}}.	checkered_flag	{{version|0}}	nil
+Cleaning Rag	Uncommon	{{Group|gem|verbose=true|conj=and}} give {{Coins|1}} more.	cleaning_rag	Demo	nil
+Wanted Poster	Common	{{IconL|Thief}} give {{x|3}} more {{Coins}}.	wanted_poster	Demo	nil
+Very Big Symbol Bomb	Rare	You may {{red|destroy}} this item and choose {{red|8}} symbols to {{red|add}}.	symbol_bomb_very_big	Demo	nil
+Clear Sky	Rare	{{Group|Sun|Moon|verbose=true|conj=and}} affect non-adjacent symbols as well.	clear_sky	Demo	nil
+Yellow Pepper	Common	Gives {{Coins|2}} if none of the symbols are {{IconL|Empty}}.	yellow_pepper	{{version|0}}	nil
+White Pepper	Common	Gives {{Coins|3}} whenever you gain a multiple of {{Coins|3}} after a spin.	white_pepper	{{version|2}}	nil
+Fish Tank	Common	Puts all {{IconL|Goldfish}} in this item before each spin. Gives {{Coins|1}} for each {{IconL|Goldfish}} in this item.	fish_bowl	{{version|2}}	nil
+5th Ace	Common	{{Group|Clubs|Spades|verbose=true|conj=and}} give {{Coins|1}} more when adjacent to {{Group|Diamonds|Hearts|verbose=true|conj=and}}. {{Group|Diamonds|Hearts|verbose=true|conj=and}} give {{Coins|1}} more when adjacent to {{Group|Clubs|Spades|verbose=true|conj=and}}.	fifth_ace	{{version|5}}	nil
+Oswald the Monkey	Common	{{IconL|Monkey}} give {{x|2}} more {{Coins}}.	oswald_the_monkey	{{version|0}}	nil
+Red Pepper	Common	Gives {{Coins|5}} if every symbol is different.	red_pepper	Demo	nil
+Lucky Seven	Common	If you have {{red|3}} of this item, they are {{red|destroyed}} and give {{Coins|77}} total.	lucky_seven	{{version|0}}	nil
+Birdhouse	Common	{{Group|bird|verbose=true|conj=and}} give {{Coins|1}} more.	birdhouse	{{version|0}}	nil
+Zaroff's Contract	Uncommon	{{IconL|Bounty Hunter}} {{sd|destroy}} adjacent {{Group|human|verbose=true|conj=and}}. {{IconL|Bounty Hunter}} give {{Coins|20}} for each symbol {{sd|destroyed}}.	zaroffs_contract	{{version|0}}	nil
+Ricky the Banana	Common	{{Group|Banana|Banana Peel|verbose=true|conj=and}} give {{Coins|1}} more.	ricky_the_banana	{{version|3}}	nil
+Cardboard Box	Uncommon	Gives {{RemovalTokens|1}} every {{red|10}} spins.	cardboard_box	{{version|6}}	nil

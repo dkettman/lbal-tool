@@ -1,6 +1,8 @@
 import pprint
 import json
 
+from dataclasses import dataclass
+
 """
     Workflow thought process:
     - Grab grouping data from JSON file in the unpacked PAK file and populate objects
@@ -29,6 +31,20 @@ import json
       - Think keeping it all in Python would work better/give better learning opportunity.
       
 """
+
+@dataclass
+class Symbol:
+    """Class for keeping track of Symbols in LBAL"""
+    name: str
+    id: str
+    value: int
+    groups: list[str]
+    rarity: str
+
+    def print_symbol(selfself) -> str:
+        print("ID: {self.id} - Name: {self.name} - Value: {self.value} - Rarity: {self.rarity} - Groups: {self.groups}")
+
+
 
 # Dict of Symbol objects we will use for lookups
 symbols = {}
@@ -83,3 +99,4 @@ for file in json_files:
         #                           objs[obj]["groups"],
         #                           objs[obj]["rarity"]))
         # print(dict_symbols[obj])
+        pass
